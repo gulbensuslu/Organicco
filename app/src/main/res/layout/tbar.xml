@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:id="@+id/toolbar_categories"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+
+  <androidx.coordinatorlayout.widget.CoordinatorLayout
+      android:id="@+id/coordinator_id"
+      android:layout_width="match_parent"
+      android:layout_height="720dp"
+      android:fitsSystemWindows="true">
+
+      <com.google.android.material.appbar.AppBarLayout
+          android:id="@+id/appbar_id"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:background="?attr/colorPrimary"
+          app:elevation="0dp">
+
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="409dp"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary"
+    android:minHeight="?attr/actionBarSize"
+    android:theme="?attr/actionBarTheme">
+</androidx.appcompat.widget.Toolbar>
+
+               <com.google.android.material.tabs.TabLayout
+                   android:id="@+id/tabs_id"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content">
+
+                   <com.google.android.material.tabs.TabItem
+                       android:id="@+id/vegetables_fruits_id"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+
+                       android:text="@string/vegetablesfruits" />
+
+                   <com.google.android.material.tabs.TabItem
+                       android:id="@+id/milk_dairyProducts_id"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="@string/milkdairyProducts" />
+
+
+                   <com.google.android.material.tabs.TabItem
+                       android:id="@+id/Marmalade_id"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="@string/Marmalade" />
+
+               </com.google.android.material.tabs.TabLayout>
+
+
+           </com.google.android.material.appbar.AppBarLayout>
+
+           <androidx.viewpager.widget.ViewPager
+               android:id="@+id/viewpager_id"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:background="#E2E8E2"
+               app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+
+           </androidx.viewpager.widget.ViewPager>
+
+
+       </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+   </RelativeLayout>

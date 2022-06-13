@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- LOGIN PAGE -->
+    <string name="email">E-mail</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="dont_have_an_acoount"> Bir hesabınız yok mu? Kayıt ol.</string>
+    <string name="LoginControl">Lütfen tüm alanları doldurunuz.</string>
+
+    <!-- SIGNUP PAGE -->
+    <string name="createAcount">Hesap Oluştur</string>
+    <string name="name">İsim</string>
+    <string name="surname">Soyisim</string>
+    <string name="phoneNumber"> Telefon Numarası </string>
+    <string name="checkbox"> Gizlilik politikasını okudum ve kabul ediyorum. </string>
+    <string name="save"> Kaydet </string>
+    <string name="notification">Organicco ailesine hoş geldiniz. İyi Alışverişler.</string>
+    <string name="not">Lütfen Tüm Bilgileri Eksiksiz Giriniz.</string>
+    <string name="successful">Hesap Başarıyla Oluşturuldu.</string>
+    <string name="error">Şifreler eşleşmedi.</string>
+    <string name="added">Sepete eklendi.</string>
+
+    <!-- NavigationDrawer PAGE -->
+    <string name="myProfile">Profilim</string>
+    <string name="myCart">Sepetim</string>
+    <string name="Info">Bilgi</string>
+    <string name="AboutUs">Hakkımızda</string>
+    <string name="PrivacyPolicy">Gizlilik Politikası</string>
+    <string name="Home">Ana Sayfa</string>
+
+    <!-- fragment_privacy_policy PAGE -->
+    <string name="PrivacyPolicy_content">İşbu Sözleşme’nin konusu Organicoo’nun sahibi bulunduğu Organicoo’dan üyenin yararlanabilme şart ve koşullarının belirlenebilmesidir.Üye, Organicoo uygulamasına üye olduğu sırada bildirdiği tüm kişisel erişim ve iletişim bilgilerinin doğruluğunu , bilgilerin yanlış olmasından dolayı oluşacak zararlarını aynen ve derhal karşılayacağını taahhüt eder.Üye, Organicoo tarafından kullanıcı adı ve şifresini kimseye veremez, söz konusu şifrenin kullanım hakkı sadece üyeye aittir.Bu nedenle doğabilecek tüm sorumluluk halleri ile üçüncü kişiler tarafından Organicoo’ya karşı ileri sürülecek talep ve suçlamalara karşı Organicoo’nun söz konusu izinsiz kullanımdan kaynaklanan her türlü tazminat ve sair talep hakkı saklıdır.İşbu sözleşme üyenin üyeliğini iptal etmesi veya Organicoo tarafından üyeliğinin iptal edilmesine kadar yürürlükte kalacaktır.Üyenin üyelik sözleşmesinin herhangi bir hükmünü ihlal etmesi durumunda üyenin üyeliğini iptal ederek sözleşmeyi tek taraflı olarak feshedebilecektir.Üyenin, üyelik kaydı yapması üyenin üyelik sözleşmesinde yer alan tüm maddeleri okuduğu ve üyelik sözleşmesinde yer alan maddeleri kabul ettiği anlamına gelir.</string>
+
+    <!-- fragment_aboutUs PAGE -->
+    <string name="AboutUs_content">Türkiye, elverişli iklimi ve coğrafi özellikleri nedeniyle organik ürün üreticilerinin tercih ettiği ülkeler arasında yer almaktadır. Organik ürünlere her yıl artan ilgi ile büyüyen sektör, bu uygulama sayesinde çeşitli kategorilerden birçok doğal ürünü müşterileriyle buluşturmaktadır.Ülkemizin her köşesindeki verimli topraklardan doğanın armağanını alıp size ve dostlarınıza ulaştırarak organik nesiller yetiştirmeyi amaçlıyoruz. Organicoo ile ürünlerimizi tarlanın tazeliği ve besin değerleri ile sofralarınıza ulaştırıyoruz.</string>
+
+    <string name="vegetablesfruits">Sebzeler ve Meyveler </string>
+    <string name="milkdairyProducts">Süt ve Süt Ürünleri </string>
+    <string name="Marmalade">Marmelat</string>
+
+    <string name="ProductName">Ürün Adı:</string>
+    <string name="ProductPrice">Ürün Fiyatı:</string>
+    <string name="ProductKind">Ürünün Türü:</string>
+    <string name="ProductRegion">Ürünün Yöresi:</string>
+
+    <string name="UserName">Kullanıcı Adı:</string>
+    <string name="UserSurname">Kullanıcı Soyadı:</string>
+    <string name="UserPhoneNumber">Telefon Numarası:</string>
+    <string name="Useremail">E-mail:</string>
+    <string name="Update">GÜNCELLE</string>
+    <string name="UpdateToast">Profiliniz Güncellenmiştir.</string>
+
+    <string name="TotalPrice">TOPLAM FİYAT:</string>
+    <string name="ConfirmCart">Sepeti Onayla</string>
+    <string name="Order">Siparişiniz alındı. Afiyet olsun.</string>
+    <string name="DialogTitle">Sepet Onayı</string>
+    <string name="DialogContent">Sepetinizi onaylamak istediğinize emin misiniz?</string>
+
+    <string name="YES">EVET</string>
+    <string name="NO">HAYIR</string>
+    <string name="OK">TAMAM</string>
+    <string name="Exit">ÇIKIŞ</string>
+    <string name="contactUs">Bize Ulaşın</string>
+
+  <string name="ContactInfo">Çağrı Merkezi Hizmet Numaramız:\n 444 78 795 \n\n Kayıtlı Elektronik Posta Adresi:\n help@organicco.com</string>
+
+</resources>

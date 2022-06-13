@@ -1,0 +1,78 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">Organicco</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" tools:ignore="MissingTranslation">Hello blank fragment</string>
+    <string name="open_drawer" tools:ignore="MissingTranslation">Open navigation drawer</string>
+    <string name="close_drawer" tools:ignore="MissingTranslation">Close navigation drawer</string>
+
+
+    <!-- LOGIN PAGE -->
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_acoount"> Do not have an account? Register. </string>
+    <string name="LoginControl">Please fill in all fields</string>
+
+
+
+
+    <!-- SIGNUP PAGE -->
+    <string name="createAcount">Create Account</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phoneNumber"> Phone Number </string>
+    <string name="checkbox"> I have read and accept the privacy policy. </string>
+    <string name="save"> Save </string>
+    <string name="notification">Welcome to the Organicco family. Have a nice shopping.</string>
+    <string name="not">Please Enter All Information Completely</string>
+    <string name="successful">Account Created Successfully</string>
+    <string name="error">Passwords not matching</string>
+    <string name="added">Added To A Cart.</string>
+
+    <!-- NavigationDrawer PAGE -->
+    <string name="myProfile">My Profile</string>
+    <string name="myCart">My Cart</string>
+    <string name="Info">Info</string>
+    <string name="AboutUs">About Us</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+    <string name="Home">Home</string>
+
+    <!-- fragment_privacy_policy PAGE -->
+
+    <string name="PrivacyPolicy_content">The subject of this Agreement is to determine the terms and conditions for the member to benefit from Organicoo, which is owned by Organicoo. The member undertakes that all personal access and contact information submitted while subscribing to the Organicoo application is correct, and that he will fully and immediately cover the damages that may occur due to incorrect information. Organicoo cannot give the user name and password to anyone, the right to use the said password belongs only to the member. Therefore, Organicoo’s all kinds of compensations arising from such unauthorized use against claims and accusations made by third parties against Organicoo. and other requests are reserved. This agreement will remain in effect until the member cancels his/her membership or the membership is canceled by Organicoo. Membership registration means that the member has read all the articles in the membership agreement and accepted the articles in the membership agreement. This Agreement was concluded at the time of the member’s membership and entered into force mutually. </string>
+
+    <!-- fragment_aboutUs PAGE -->
+    <string name="AboutUs_content"> Due to its favorable climate and geographical features,Turkey is among the countries preffered by organic product producers. With the increasing interest in organic products every year, the growing sector brings many natural products from various categories to its customers, thanks to this application.We aim to raise organic generations by taking the gift of nature from the fertile lands in every corner of our country and delivering it to you and your homies. With the Organicoo, we deliver our products to your table with freshness and nutrical values of the field.We aim to raise organic generations by taking the gift of nature from the fertile lands in every corner of our country and delivering it to you and your homies. With the Organicoo, we deliver our products to your table with freshness and nutrical values of the field.</string>
+
+
+    <string name="vegetablesfruits">Vegetables and Fruıts </string>
+    <string name="milkdairyProducts">Mılk and Daıry Products</string>
+    <string name="Marmalade"> Marmalade</string>
+
+    <string name="ProductName">Name of the product:</string>
+    <string name="ProductPrice">Product Price:</string>
+    <string name="ProductKind">Kind of Product:</string>
+    <string name="ProductRegion">Region of the Product:</string>
+
+
+    <string name="UserName">User Name:</string>
+    <string name="UserSurname">User Surname:</string>
+    <string name="UserPhoneNumber">Phone Number:</string>
+    <string name="Useremail">E-mail:</string>
+    <string name="Update">UPDATE</string>
+    <string name="UpdateToast">Your profile has been updated on </string>
+
+    <string name="TotalPrice">TOTAL PRICE:</string>
+    <string name="ConfirmCart">Confirm Cart</string>
+    <string name="DialogTitle">Cart Confirmation</string>
+    <string name="DialogContent">Are you sure you want to confirm your cart?</string>
+    <string name="Order">Your order has been received. Enjoy your meal.</string>
+
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+
+    <string name="Exit">EXIT</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="OK">OKEY</string>
+    <string name="ContactInfo">Our Call Center Service Number:\n 444 78 795 \n \n Registered Email Address: \n help@organicco.com</string>
+</resources>

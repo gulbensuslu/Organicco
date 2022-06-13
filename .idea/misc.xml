@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/aboutus.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/cart.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/cart_text.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/location.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/price_cart.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/privacy.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/profile.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/drawable/title_corner.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/activity_product_d.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/activity_registration.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/activity_splash_secreen.xml" value="0.152" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/cart_cardview.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_Marmalade.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_about_us.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_about_us2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_cosmetics.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_food.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_home_fragment.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_home_textile.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_location.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_marmalade.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_milk.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_my_cart.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_my_profile.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_product_detail.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_vegetables__fruits.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/fragment_vegetables_fruits.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/header_navigation.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/products_cardview.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/layout/tbar.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/menu/categories.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/menu/exit_menu.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/menu/navigation_drawer.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Organicco/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

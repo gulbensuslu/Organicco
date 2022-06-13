@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MyCart"
+    android:background="#E2E8E2">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="228dp"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:text="@string/TotalPrice"
+        android:textColor="@color/white"
+        android:background="@drawable/cart_text"
+        android:textSize="23dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/totalPrice_id"
+        android:layout_width="186dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="225dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/white"
+        android:background="@drawable/cart_text"
+        android:textSize="23dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_marginTop="70dp"
+
+        android:padding="20dp">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView_cart"
+            android:layout_width="match_parent"
+            android:layout_height="400dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/cart_button_id"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="525dp"
+        android:background="#2A7983"
+        android:text="@string/ConfirmCart"
+        app:backgroundTint="#2A7983" />
+
+
+</FrameLayout>
